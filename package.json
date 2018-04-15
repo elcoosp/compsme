@@ -1,0 +1,21 @@
+{
+  "name": "compsme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js new button header* plop"
+  },
+  "keywords": [],
+  "author": "elcoosp <elcoosp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "cosmiconfig": "^4.0.0",
+    "write": "^1.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}

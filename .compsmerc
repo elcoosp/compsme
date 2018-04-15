@@ -1,0 +1,4 @@
+{
+    "dumb": "src/components",
+    "smart": "src/containers",
+}
