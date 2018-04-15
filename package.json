@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon src/index.js new button header* plop"
+    "dev": "nodemon src/index.js new button header* plop truc* --ignore test/"
   },
   "keywords": [],
   "author": "elcoosp <elcoosp@gmail.com>",
@@ -13,6 +13,7 @@
   "dependencies": {
     "commander": "^2.15.1",
     "cosmiconfig": "^4.0.0",
+    "node-dir": "^0.1.17",
     "write": "^1.0.3"
   },
   "devDependencies": {
