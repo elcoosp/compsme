@@ -2,7 +2,7 @@
 
 A little util to generate many components boilerplate files on the fly
 
-##/.compsmerc
+## In /.compsmerc
 
 ```
 {
@@ -10,6 +10,8 @@ A little util to generate many components boilerplate files on the fly
     "smart": "src/containers",
 }
 ```
+
+## Then
 
 `compsme new button form* header footer app*`
 
@@ -21,8 +23,10 @@ Create the following folder structure in src folder
 │   ├── index.js  
 │   ├── test.js  
 │ ├── Header  
+│   ├── ...
 │ └── Footer  
 ├── containers  
 │ ├── Form  
+│   ├── ...
 │ ├── App
 ```
