@@ -1,0 +1,1 @@
+exports.SMART_SYMBOL = '*'
