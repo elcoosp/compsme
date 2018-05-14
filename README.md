@@ -1,5 +1,7 @@
 # Compsme
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/elcoosp/compsme.svg)](https://greenkeeper.io/)
+
 A little util to generate many components boilerplate files on the fly
 
 ## In /.compsmerc
