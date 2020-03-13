@@ -18,7 +18,7 @@
     "commander": "^2.15.1",
     "cosmiconfig": "^4.0.0",
     "node-dir": "^0.1.17",
-    "write": "^1.0.3"
+    "write": "^2.0.0"
   },
   "repository": "https://github.com/elcoosp/compsme",
   "devDependencies": {
